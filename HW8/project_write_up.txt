@@ -1,0 +1,18 @@
+Vivienne Qie, Amy Liu, and Nathan Creek
+qievi@gatech.edu, aliu66@gatech.edu, and ncheek@gatech.edu
+We worked on the homework assignment together, using only this semester's course materials.
+
+Part 1
+The frame fades in to see Princess Peach dancing happily in a field. The first scene then fades into the second in which Bowser appears 
+and chases after Princess Peach. Bowser captures her and the screen shakes. The scene fades into the next which has a red tint showing 
+the kidnapped Princess Peach taken to Bowser’s Castle. The scene fades out and into the next scene, which shows Mario appearing in 
+Bowser’s Castle. Mario fights bowser and defeats him. The scene fades out and into the next in which Mario is reunited with Princess Peach. 
+The last frame is then pushed off to the right, making room for the credits to roll. 
+
+Part 2
+In filmingCode, a robot is programed to take a certain number of pictures for each individual scene. The pictures are then saved as a jpg. In 
+actingCode, a robot is programmed to move and interact with props. The robot also pauses to allow another robot enough time to take a picture. 
+In editingCode, the pictures that were taken in filmingCode are edited and appended to masterList, which includes all of the pictures for each 
+scene. The pictures in masterList are saved as individual pictures named output_video_pic_#.jpg, with # indicating the frame number in the movie. 
+The user is then given the option of either saving each frame in masterList as a jpg or creating a single gif from masterList. In performanceCode, 
+the pictures saved as output_video_pic_#.jpg are shown to the user. 
